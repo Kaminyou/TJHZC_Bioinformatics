@@ -17,3 +17,6 @@ Please name your files as:</br>
 
 ## Ask question
 Please email TA with the prefix **[Bioinformatics] Your title...**
+
+## Slide
+[link](https://drive.google.com/drive/folders/1kCkEAOIRyj04EZy-EfRvkzJLTSYRYDWT)
