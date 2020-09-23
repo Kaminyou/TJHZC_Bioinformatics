@@ -13,7 +13,7 @@ PLEASE MUST register before 2020/09/23 23:59 (UTC+8) </br>
 [link](https://forms.gle/NT4nxU3k399CyCNi9BIOINFORMATICS)
 
 ## Check your score and status
-You can get your **NO** here.
+You can get your **NO** here.</br>
 [link](https://docs.google.com/spreadsheets/d/1-O5Wav50KazojXJmJjXaY7IcRt2VxnaEK73hyFWaabM/editBIOINFORMATICS)
 
 ## Submit your homework 1
