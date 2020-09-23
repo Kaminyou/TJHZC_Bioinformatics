@@ -19,4 +19,4 @@ Please name your files as:</br>
 Please email TA with the prefix **[Bioinformatics] Your title...**
 
 ## Slide
-[link](https://drive.google.com/drive/folders/1kCkEAOIRyj04EZy-EfRvkzJLTSYRYDWT)
+[link](https://drive.google.com/drive/folders/1kCkEAOIRyj04EZy-EfRvkzJLTSYRYDWTBIOINFORMATICS)
