@@ -2,7 +2,8 @@
 # NOTE
 1. We postpone the deadline of coding homework 1 to the third week (i.e. 10/7 before the class), while the deadline of writing part is not changed!!!
 2. We will reduce the degree of difficulty in the further class, please don't be afraid of being unable to understand the coding part!!!
-3. Please feel free to mail TA if you have any problem!!!
+3. A simple version of python programming I is added, you can go through and try to play with it if you consider that the previous one was too difficult.
+4. Please feel free to mail TA if you have any problem!!!
 
 ## Requirement
 a gmail account
