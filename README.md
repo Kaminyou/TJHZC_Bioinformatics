@@ -14,3 +14,6 @@ You can get your **NO** here.
 Please name your files as:</br>
 **NO_中文名_hw01.docx** and **NO_hw01.py** e.g. *01_無名氏_hw01.docx* and *12_hw01.py*</br>
 [link](https://forms.gle/9BY5NbiWUAzpe8fb9BIOINFORMATICS)
+
+## Ask question
+Please email TA with the prefix **[Bioinformatics] Your title...**
